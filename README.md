@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balram Mahato</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE9aNDVQTF9DSnlFLTNIakFPZkpjeWFfLWhmd3xBQ3Jtc0tsZktJOUs5U2t4bkZQd20zQWRNM3drbUhTaDFtZzI0S2k1NG1IYjd6OG9EY09ncG9YY3N4VmZiclEyTjdxejZfOWJMRjY3LVBTU3YzTVNfYjE5WTA2QXNtc2UtWjNDTjEwczZxWDg5VkZQUDVRdmUyUQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balram-mahato&label=Profile%20views&color=0e75b6&style=flat" alt="balram-mahato" /> </p>
 
